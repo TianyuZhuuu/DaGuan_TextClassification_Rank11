@@ -1,0 +1,39 @@
+Epoch 21 in 506.4s: saved in ../../ckpt/high_dropout_pooled_bilstm/1/fold0.ckpt
+    train loss: 0.6614 valid loss: 0.7692
+    train f1_macro: 0.7870 valid f1_macro: 0.7664
+
+Epoch 17 in 517.0s: saved in ../../ckpt/high_dropout_pooled_bilstm/1/fold1.ckpt
+train loss: 0.6728 valid loss: 0.7774
+train f1_macro: 0.7842 valid f1_macro: 0.7594
+
+Epoch 31 in 515.0s: saved in ../../ckpt/high_dropout_pooled_bilstm/1/fold2.ckpt
+    train loss: 0.6107 valid loss: 0.8160
+    train f1_macro: 0.8005 valid f1_macro: 0.7602
+
+Epoch 11 in 514.5s: saved in ../../ckpt/high_dropout_pooled_bilstm/1/fold3.ckpt
+    train loss: 0.7248 valid loss: 0.7860
+    train f1_macro: 0.7676 valid f1_macro: 0.7618
+
+Epoch 22 in 515.0s: saved in ../../ckpt/high_dropout_pooled_bilstm/1/fold4.ckpt
+    train loss: 0.6488 valid loss: 0.7741
+    train f1_macro: 0.7917 valid f1_macro: 0.7672
+
+Epoch 13 in 513.7s: saved in ../../ckpt/high_dropout_pooled_bilstm/1/fold5.ckpt
+    train loss: 0.7054 valid loss: 0.7910
+    train f1_macro: 0.7727 valid f1_macro: 0.7615
+
+Epoch 12 in 523.4s: saved in ../../ckpt/high_dropout_pooled_bilstm/1/fold6.ckpt
+    train loss: 0.7222 valid loss: 0.7940
+    train f1_macro: 0.7691 valid f1_macro: 0.7601
+
+Epoch 25 in 515.8s: saved in ../../ckpt/high_dropout_pooled_bilstm/1/fold7.ckpt
+    train loss: 0.6332 valid loss: 0.7405
+    train f1_macro: 0.7930 valid f1_macro: 0.7740
+
+Epoch 16 in 515.2s: saved in ../../ckpt/high_dropout_pooled_bilstm/1/fold8.ckpt
+    train loss: 0.6730 valid loss: 0.7861
+    train f1_macro: 0.7833 valid f1_macro: 0.7636
+
+Epoch 26 in 515.2s: saved in ../../ckpt/high_dropout_pooled_bilstm/1/fold9.ckpt
+    train loss: 0.6272 valid loss: 0.7530
+    train f1_macro: 0.7971 valid f1_macro: 0.7690

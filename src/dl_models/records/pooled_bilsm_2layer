@@ -1,0 +1,39 @@
+Epoch 13 in 504.7s: saved in ../../ckpt/pooled_bilstm_2layer/1/fold0.ckpt
+    train loss: 0.7476 valid loss: 0.7844
+    train f1_macro: 0.7755 valid f1_macro: 0.7685
+
+Epoch 16 in 513.4s: saved in ../../ckpt/pooled_bilstm_2layer/1/fold1.ckpt
+    train loss: 0.6844 valid loss: 0.7863
+    train f1_macro: 0.7948 valid f1_macro: 0.7663
+
+Epoch 29 in 513.8s: saved in ../../ckpt/pooled_bilstm_2layer/1/fold2.ckpt
+    train loss: 0.6030 valid loss: 0.8719
+    train f1_macro: 0.8190 valid f1_macro: 0.7591
+
+Epoch 23 in 511.7s: saved in ../../ckpt/pooled_bilstm_2layer/1/fold3.ckpt
+    train loss: 0.6528 valid loss: 0.8017
+    train f1_macro: 0.8027 valid f1_macro: 0.7669
+
+Epoch 16 in 513.0s: saved in ../../ckpt/pooled_bilstm_2layer/1/fold4.ckpt
+    train loss: 0.6794 valid loss: 0.8006
+    train f1_macro: 0.7952 valid f1_macro: 0.7651
+
+Epoch 16 in 517.4s: saved in ../../ckpt/pooled_bilstm_2layer/1/fold5.ckpt
+    train loss: 0.6831 valid loss: 0.8123
+    train f1_macro: 0.7941 valid f1_macro: 0.7630
+
+Epoch 17 in 513.1s: saved in ../../ckpt/pooled_bilstm_2layer/1/fold6.ckpt
+    train loss: 0.6810 valid loss: 0.8149
+    train f1_macro: 0.7936 valid f1_macro: 0.7611
+
+Epoch 18 in 512.1s: saved in ../../ckpt/pooled_bilstm_2layer/1/fold7.ckpt
+    train loss: 0.6588 valid loss: 0.7669
+    train f1_macro: 0.7999 valid f1_macro: 0.7789
+
+Epoch 12 in 513.7s: saved in ../../ckpt/pooled_bilstm_2layer/1/fold8.ckpt
+    train loss: 0.7238 valid loss: 0.8012
+    train f1_macro: 0.7831 valid f1_macro: 0.7667
+
+Epoch 21 in 511.9s: saved in ../../ckpt/pooled_bilstm_2layer/1/fold9.ckpt
+    train loss: 0.6396 valid loss: 0.7831
+    train f1_macro: 0.8088 valid f1_macro: 0.7696

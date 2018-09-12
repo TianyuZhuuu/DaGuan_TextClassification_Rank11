@@ -1,0 +1,39 @@
+Epoch 66 in 14.2s: saved in ../../ckpt/fasttext_char/1/fold0.ckpt
+    train loss: 0.8751 valid loss: 0.9019
+    train f1_macro: 0.7147 valid f1_macro: 0.7156
+
+Epoch 58 in 14.0s: saved in ../../ckpt/fasttext_char/1/fold1.ckpt
+    train loss: 0.8519 valid loss: 0.8953
+    train f1_macro: 0.7222 valid f1_macro: 0.7076
+
+Epoch 42 in 14.1s: saved in ../../ckpt/fasttext_char/1/fold2.ckpt
+    train loss: 0.8497 valid loss: 0.9179
+    train f1_macro: 0.7210 valid f1_macro: 0.7106
+
+Epoch 39 in 14.1s: saved in ../../ckpt/fasttext_char/1/fold3.ckpt
+    train loss: 0.8560 valid loss: 0.8861
+    train f1_macro: 0.7208 valid f1_macro: 0.7159
+
+Epoch 48 in 14.2s: saved in ../../ckpt/fasttext_char/1/fold4.ckpt
+    train loss: 0.8672 valid loss: 0.9009
+    train f1_macro: 0.7175 valid f1_macro: 0.7110
+
+Epoch 44 in 14.0s: saved in ../../ckpt/fasttext_char/1/fold5.ckpt
+    train loss: 0.8429 valid loss: 0.8909
+    train f1_macro: 0.7244 valid f1_macro: 0.7179
+
+Epoch 39 in 14.2s: saved in ../../ckpt/fasttext_char/1/fold6.ckpt
+    train loss: 0.8613 valid loss: 0.8983
+    train f1_macro: 0.7195 valid f1_macro: 0.7123
+
+Epoch 62 in 14.2s: saved in ../../ckpt/fasttext_char/1/fold7.ckpt
+    train loss: 0.8465 valid loss: 0.8636
+    train f1_macro: 0.7207 valid f1_macro: 0.7281
+
+Epoch 42 in 14.1s: saved in ../../ckpt/fasttext_char/1/fold8.ckpt
+    train loss: 0.8576 valid loss: 0.9004
+    train f1_macro: 0.7204 valid f1_macro: 0.7116
+
+Epoch 41 in 14.2s: saved in ../../ckpt/fasttext_char/1/fold9.ckpt
+    train loss: 0.8547 valid loss: 0.8641
+    train f1_macro: 0.7205 valid f1_macro: 0.7245

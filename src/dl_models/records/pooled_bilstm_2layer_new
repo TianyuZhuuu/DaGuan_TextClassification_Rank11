@@ -1,0 +1,15 @@
+Epoch 18 in 510.0s: saved in ../../ckpt/pooled_bilstm_2layer_new/1/fold0.ckpt
+    train loss: 0.6902 valid loss: 0.7901
+    train f1_macro: 0.7917 valid f1_macro: 0.7683
+
+Epoch 34 in 517.6s: saved in ../../ckpt/pooled_bilstm_2layer_new/1/fold1.ckpt
+    train loss: 0.6798 valid loss: 0.8079
+    train f1_macro: 0.7962 valid f1_macro: 0.7668
+
+Epoch 14 in 517.2s: saved in ../../ckpt/pooled_bilstm_2layer_new/1/fold2.ckpt
+    train loss: 0.7237 valid loss: 0.8440
+    train f1_macro: 0.7840 valid f1_macro: 0.7542
+
+Epoch 19 in 517.3s: saved in ../../ckpt/pooled_bilstm_2layer_new/1/fold3.ckpt
+    train loss: 0.6826 valid loss: 0.7926
+    train f1_macro: 0.7940 valid f1_macro: 0.7639
