@@ -13,9 +13,9 @@ http://www.dcjingsai.com/common/cmpt/%E2%80%9C%E8%BE%BE%E8%A7%82%E6%9D%AF%E2%80%
 | TextCNN       | 0.760200 |   0.773990 |
 | High Dropout Pooled BiLSTM | 0.761100      |    0.778444 |
 |Pooled BiLSTM | 0.762300 | 0.779099 |
-|Pooled BiLSTM 2Layer | 0.7647 | 0.783885 |
-|TextGRU Ultimate | 0.7665 | 0.784384 |
-|TextGRUCNN | 0.7683 | **0.786284**|
+|Pooled BiLSTM 2Layer | 0.764700 | 0.783885 |
+|TextGRU Ultimate | 0.766500 | 0.784384 |
+|TextGRUCNN | 0.768300 | **0.786284**|
 
 最好的单模型在A榜可以排到38名。上述模型均为单词级模型，为增加模型多样性，除此以外还训练了字符级模型和SVD降维后的模型，本地CV远低于单词集模型，因此未在线上进行提交验证。
 
